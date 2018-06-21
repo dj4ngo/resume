@@ -1,0 +1,225 @@
+Sébastien
+Boyron
+
+
+
+PERSONNAL DETAILS
+French
+Married
+3 impasse de Mariette
+31530 LEVIGNAC
+
+06.86.58.85.79
+
+Driving Licence B
+
+Mail 
+sebastien@boyron.eu
+
+Gitlab
+https://gitlab.com/dj4ngo
+
+Github
+https://github.com/dj4ngo
+
+Dockerhub
+https://hub.docker.com/u/dj4ngo
+
+
+
+
+_______________________________________________________________________________________________
+
+CARRIER OBJECTIVE
+_______________________________________________________________________________________________
+
+To leverage my experience in large production platforms, my affinity for automation and devops methods and my rigor acquired during my self-employed aventure in enhancement of open-source products professionalism and work on future technology in computing by working on cloud virtualization and containerization technologies and next computing steps in the future.
+
+
+_______________________________________________________________________________________________
+
+WORK EXPERIENCE
+_______________________________________________________________________________________________
+Technical Leader, Linux Cloud et Virtualisation - squad
+Blagnac, since 10-2016
+
+Responsabilities:
+Create and animate the Linux, Cloud and virtualisation community
+
+Realizations:
+Created Squad Community around Linux, Cloud and Virtualisation.
+Managing the budget of the community (~= 30k€)
+Installation and administration of a server used as sandbox to deploy our works kubernetes, openstack, SDN solutions etc ...
+This server is fully managed using IaaC precepts. The technical stack consists in KVM (libvirt), github (private account), ansible, Travis-CI, python and bash scripts...
+
+Objectives
+Technological watch around linux, openstack, ELK, kubernetes, ansible ...
+Setup some internal training courses on Linux and Openstack
+
+-----------------------------------------     
+System, virtualization and cloud engineer - orange for squad
+Blagnac, since 03-2015
+
+
+Responsabilities:
+Create standards for virtualization with VMWare
+Establish standards for network virtualisation and automates installation in Orange context
+
+Realizations:
+Design a workflow to improve quality of code. Work using forks and gitlab merge requests. Work on a bot to ease code review (like ansibull bot in ansible project).
+Conceive and setup a CI/CD to enhance quality of delivery. This CI/CD is based on gitlab-ci and runs linting, unit and functionnal tests. Then build code, generate RPMs and publish it to our internal repository. All functions are mades by personnal generic docker containers reused for all git projects. This allow us to save time on new projects and to versionnate whole build platform.
+Design and code Openstack platform monitoring solution. Maintaining all probes for openstack bases on osops project and coded additionnal ones. This solution is based on jinja2 templates developed in Python3 and allow us to configure differents monitoring solutions (HPOMI, nagios, Sensu, internal orange tools ...)
+Working on hardening SDN platform linux.
+Worked on design of VMWare virtualization platform. Create install and upgrade documentations for VMWare platform (47k VMs).
+Design and setup an automated tool to install VMWare ESXi using PXE boot (uefi and legacy). This tool have been used to install more than 5k servers for now.
+In charge of satellite design and configuration and provide procedures to install and configure it in production.
+
+Technical stack:
+Virtualization KVM, Qemu, Containers LXC , Docker
+Linux (Redhat, Centos, Debian, Ubuntu), High availability (heartbeat, pacemaker), boot PXE, Certificates x509, SSH, Bash, puppet, RPM
+Openstack (Juno, Kilo, Liberty), Canonical openstack deployment tooling (Maas juju), Mirantis (Fuel) and Redhat Openstack RDO (director).
+VMware ESXi (5.1 to 6.0), vCenter, vCD (vCloud Director)
+RedHat Satellite (5.7 to 6.3)
+-----------------------------------------     
+
+System and virtualization engineer - orange business services (OBS) for sii
+Blagnac, 09-2014 to 03-2015
+                   
+Responsabilities
+Technical manager of WASAC platform (automated OBS customers routers configuration)
+
+Realizations:
+System and network team management (5 persons)
+Design and automate servers upgrade procedures
+Conceive and setup platform backup/restore and monitoring procedures
+Cisco routers, fiber switch and enclosure switchs configuration optimization
+Plan evolution, maintainance, upgrade of ESXi platform (10 ESXi on two datacenters, 200 virtual machines)
+Responsible of platform in medium term capacity planning 
+Upgrade and optimize PostgresSQL databases with dalibo (12 databases)
+
+
+Technical stack
+VMWare ESXi (5.1, 5.5u2), VMWare vCenter VCSA, linux Debian (5.0, 6.0, 7.0), PostgresSQL, Apache 2, HP SAN storage arrays, HP Enclosure, CISCO routers, Bash, PERL, Windows AD, Heartbeat.
+-----------------------------------------     
+System and virtualization engineer - rockwell collins for sii
+Blagnac, 09-2010 to 09-2014
+                   
+Responsabilities
+Design and operate a unified development environment.
+Automatize and maintain functionnal tests patform.
+Developper on initrd and system configuration.
+
+
+Realizations:
+Optimization of linux kernel in an embedded environment.
+Modification of linux initrd to perform a set of pre-boot actions as requested by airbus.
+Setup a redundant container server (OpenVZ) embedded in airbus A350.
+Adapt RedHat OpenVZ kernel patches to work in the customer environment (SUSE linux).
+Design and setup development workflow and CI/CD to automate the process; build of RPMs from sources, run linting, unit and functional tests up to delivery.
+Tests automation on hardware platform by adding snapshots capacities using customized clonezilla distribution booted on PXE and driven by the CI/CD.
+
+
+Technical stack
+Linux (red-hat, clonezilla, Suse SLES11), Kernel, Linux boot mechanisms (initrd, system V), Virtualization (VMWare Server and virtualbox), OpenVZ containers, Network bonding bridge, PXE, tftpboot, Bash, C, Python, Lamp, SSL, X.509 certificates.
+
+-----------------------------------------     
+Linux/unix engineer - self-company
+Perpignan, 09-2009 to 09-2012
+
+
+Realizations:
+Setup and maintenance of unix and linux systems for several customers.
+Design and development of an automated backup tool for SMEs.
+Project managment of Probalt, a company management simulation tool specialized in logistics and transports destinated to training teachers.
+
+
+Technical stack
+linux (all distributions), xen virtualization, Bash, LAMP servers, SSL, C, Python, Bacula
+
+Personnal skills:
+Autonomy, high motivation and rigor in both work and organization was required to work alone without a boss.
+
+-----------------------------------------     
+Project manager assistant (trainee) - ensto france
+Perpignan, 03-2009 to 09-2009
+
+Responsabilities:
+Assist the project manager in the ERP migration (PMICS to cegid PMI)
+
+Realizations:
+Modeling all company processes and propose some enhancements
+Setup a project and resources management tool
+Diary management of users implied as key user in this project (15 persons)
+Management of IT parc on three distant sites (Nefiach, Paris, Spain)
+Design and setup a new high-available and multi-site servers infrastructure.
+
+Technical stack:
+linux, xen, firebird database, windows AD, windows XP.
+-----------------------------------------     
+
+_______________________________________________________________________________________________
+
+SKILLS
+_______________________________________________________________________________________________
+
+Linux 
+Python
+Bash
+Versionning (git/github/gitlab/svn)
+Ansible
+Openstack
+Docker
+RedHat satellite
+
+_______________________________________________________________________________________________
+
+INTERESTS AND HOBBIES
+_______________________________________________________________________________________________
+
+
+
+
+_______________________________________________________________________________________________
+
+EDUCATION
+_______________________________________________________________________________________________
+2016 - RedHat
+RedHat Openstack Administrator (CL210 & CL310 Orange Version)
+
+2012 - Novell
+Novell SUSE 11 Tech Spec</h4>
+
+2012 - Bootlin (Free Electron), Toulouse
+Training Embedded Linux
+
+2010 - Novell    
+Novell Administrator Certification
+
+2009 - Linux Professionnal Institute
+LPIC-1 Certification
+
+2009 - IMERIR, Perpignan
+Ingénieur Chef de Projet en Informatique et Robotique
+Engineering Degree in computing and robotics project leader
+with honours
+
+2009 - University of Perpignan
+Mastère EAI (Electronique, Automatique, Informatique)
+four-year degree in Electronic, Direct dialing and Computing
+
+2008 - University of Perpignan
+Licence d'Informatique
+Bachelor of cumputer science
+with honours
+
+2006 - University Institute of Technology, Nîmes
+DUT GEII Génie Electronique et Informatique Industrielle
+two-year technical degree in Electrical Engineering and Industrial Computing
+
+2004 - Lycée Denis Diderot, Narbonne
+Bac Scientifique option sciences de l'ingénieur (spécialité Mathématiques)
+High school diploma in sciences, engineering sciences option (speciality mathematics)
+
+REFERENCES
+ACCREDITATIONS & LICENCES
+

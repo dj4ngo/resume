@@ -1,0 +1,98 @@
+	\section{Operating system}
+		\textbf{RedHat Satellite 5.7}\includegraphics[scale=0.40]{img/4stars.png}
+		\textbf{RedHat Satellite 6.3}\includegraphics[scale=0.40]{img/4stars.png}
+		\textbf{Apache 2}\includegraphics[scale=0.40]{img/5stars.png}
+		\textbf{Bacula}\includegraphics[scale=0.40]{img/4stars.png}
+		\textbf{boot PXE}\includegraphics[scale=0.40]{img/5stars.png}
+		\textbf{Certificates x509}\includegraphics[scale=0.40]{img/4stars.png}
+		\textbf{Heartbeat}\includegraphics[scale=0.40]{img/3stars.png}
+		\textbf{High availability}\includegraphics[scale=0.40]{img/4stars.png}
+		\textbf{initrd}\includegraphics[scale=0.40]{img/5stars.png}
+		\textbf{Kernel}\includegraphics[scale=0.40]{img/4stars.png}
+		\textbf{Lamp}\includegraphics[scale=0.40]{img/5stars.png}
+		\textbf{boot mechanisms}\includegraphics[scale=0.40]{img/5stars.png}
+		\textbf{pacemaker}\includegraphics[scale=0.40]{img/3stars.png}
+		\textbf{RPM}\includegraphics[scale=0.40]{img/5stars.png}
+		\textbf{DPKG}\includegraphics[scale=0.40]{img/5stars.png}
+		\textbf{selinux}\includegraphics[scale=0.40]{img/4stars.png}
+		\textbf{SSH}\includegraphics[scale=0.40]{img/5stars.png}
+		\textbf{SSL}\includegraphics[scale=0.40]{img/5stars.png}
+		\textbf{systemctl}\includegraphics[scale=0.40]{img/5stars.png}
+		\textbf{system V}\includegraphics[scale=0.40]{img/5stars.png}
+		\textbf{tftpboot}\includegraphics[scale=0.40]{img/5stars.png}
+		\textbf{X.509 certificates}\includegraphics[scale=0.40]{img/4stars.png}
+
+
+	\section{IaaC}
+		\textbf{Ansible}\includegraphics[scale=0.40]{img/5stars.png}
+		\textbf{puppet}\includegraphics[scale=0.40]{img/3stars.png}
+
+	\section{Configuration management}
+		\textbf{circle-ci}\includegraphics[scale=0.40]{img/4stars.png}
+		\textbf{explainPMT}\includegraphics[scale=0.40]{img/5stars.png}
+		\textbf{github}\includegraphics[scale=0.40]{img/5stars.png}
+		\textbf{gerrit}\includegraphics[scale=0.40]{img/3stars.png}
+		\textbf{git}\includegraphics[scale=0.40]{img/5stars.png}
+		\textbf{gitlab}\includegraphics[scale=0.40]{img/5stars.png}
+		\textbf{gitlab-ci}\includegraphics[scale=0.40]{img/5stars.png}
+		\textbf{redmine}\includegraphics[scale=0.40]{img/4stars.png}
+		\textbf{shippable}\includegraphics[scale=0.40]{img/4stars.png}
+		\textbf{subversion}\includegraphics[scale=0.40]{img/3stars.png}
+		\textbf{svn}\includegraphics[scale=0.40]{img/4stars.png}
+		\textbf{travis-ci}\includegraphics[scale=0.40]{img/5stars.png}
+
+	\section{Methodologies}
+		\textbf{DevOps}\includegraphics[scale=0.40]{img/5stars.png}
+		\textbf{Agile}\includegraphics[scale=0.40]{img/4stars.png}
+		\textbf{CI/CD}\includegraphics[scale=0.40]{img/5stars.png}
+
+
+	\section{Openstack deployment}
+		\textbf{juju}\includegraphics[scale=0.40]{img/4stars.png}
+		\textbf{Maas}\includegraphics[scale=0.40]{img/4stars.png}
+		\textbf{Fuel}\includegraphics[scale=0.40]{img/5stars.png}
+		\textbf{RDO (tripleO)}\includegraphics[scale=0.40]{img/5stars.png}
+
+
+	\section{Containers}
+		\textbf{LXC}\includegraphics[scale=0.40]{img/3stars.png}
+		\textbf{Docker}\includegraphics[scale=0.40]{img/5stars.png}
+		\textbf{OpenVZ}\includegraphics[scale=0.40]{img/4stars.png}
+
+	\section{Virtualization}
+		\textbf{Qemu}\includegraphics[scale=0.40]{img/3stars.png}
+		\textbf{vCD (vCloud Director)}\includegraphics[scale=0.40]{img/4stars.png}
+		\textbf{vCenter (VCSA)}\includegraphics[scale=0.40]{img/5stars.png}
+		\textbf{KVM}\includegraphics[scale=0.40]{img/3stars.png}
+		\textbf{libvirt}\includegraphics[scale=0.40]{img/5stars.png}
+		\textbf{virtualbox}\includegraphics[scale=0.40]{img/4stars.png}
+		\textbf{ESXi}\includegraphics[scale=0.40]{img/5stars.png}
+		\textbf{Xen}\includegraphics[scale=0.40]{img/3stars.png}
+
+	\section{Developpement}
+		\textbf{Bash}\includegraphics[scale=0.40]{img/5stars.png}
+		\textbf{C}\includegraphics[scale=0.40]{img/3stars.png}
+		\textbf{PERL}\includegraphics[scale=0.40]{img/3stars.png}
+		\textbf{Python}\includegraphics[scale=0.40]{img/4stars.png}
+		\textbf{RPM build}\includegraphics[scale=0.40]{img/5stars.png}
+
+	\section{Distributions}
+		\textbf{Centos}\includegraphics[scale=0.40]{img/5stars.png}
+		\textbf{clonezilla}\includegraphics[scale=0.40]{img/5stars.png}
+		\textbf{Debian}\includegraphics[scale=0.40]{img/5stars.png}
+		\textbf{Redhat}\includegraphics[scale=0.40]{img/5stars.png}
+		\textbf{Suse SLES11}\includegraphics[scale=0.40]{img/5stars.png}
+		\textbf{Ubuntu}\includegraphics[scale=0.40]{img/5stars.png}
+
+	\section{Linux networking}
+		\textbf{bonding}\includegraphics[scale=0.40]{img/5stars.png}
+		\textbf{bridges}\includegraphics[scale=0.40]{img/5stars.png}
+		\textbf{firewalld}\includegraphics[scale=0.40]{img/3stars.png}
+		\textbf{iptable}\includegraphics[scale=0.40]{img/4stars.png}
+		\textbf{namespace}\includegraphics[scale=0.40]{img/4stars.png}
+
+	\section{Databases}
+		\textbf{firebird}\includegraphics[scale=0.40]{img/4stars.png}
+		\textbf{PostgresSQL}\includegraphics[scale=0.40]{img/4stars.png}
+		\textbf{MariaDB}\includegraphics[scale=0.40]{img/3stars.png}
+

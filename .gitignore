@@ -1,5 +1,4 @@
 *.bcf
 *.log
 *.out
-cv.pdf
 *.run.xml
