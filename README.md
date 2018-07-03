@@ -10,7 +10,7 @@ All code is available [here](https://github.com/dj4ngo/resume).
 
 ## Download PDF format
 
-My CV is available [here](https://github.com/dj4ngo/resume/raw/master/cv.pdf)
+My CV is available [here](https://github.com/dj4ngo/resume/raw/master/resume.pdf)
 
 
 ## Customize CV

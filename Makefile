@@ -12,9 +12,9 @@ prepare: prepare_redhat
 	docker pull dj4ngo/resume:latest
 
 prepare_redhat:
-	cp -f cv.aux cv_redhat.aux
+	cp -f resume.aux rh_resume.aux
 	sed -e '/definecolor/s/{[0-9A-F][0-9A-F][0-9A-F][0-9A-F][0-9A-F][0-9A-F]}/{CC0000}/p' \
-	    -e 's/\([1-5]stars\)\(.png\)/\1_rh\2/' cv.tex > cv_redhat.tex
+	    -e 's/\([1-5]stars\)\(.png\)/\1_rh\2/' resume.tex > rh_resume.tex
 
 
 build: prepare
